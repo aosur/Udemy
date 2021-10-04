@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(247, 243, 243, 0.89);
+}
+
+body {
+    margin: 10px;
+}
+
+header {
+    position: relative;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:hover {
+    background-color: rgb(130, 187, 243);
+    color:rgba(247, 243, 243, 0.89);
+}
+
